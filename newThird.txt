@@ -1,3 +1,6 @@
 This is a word document.
 This is third time modified;
 This is done to demonstrate direct commiting of a file.
+comitted
+again commited
+jai hind dosto
